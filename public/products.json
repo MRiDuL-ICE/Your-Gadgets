@@ -1,0 +1,192 @@
+[
+    {
+      "product_id": "W2",
+      "product_title": "Samsung Galaxy Watch 5 Pro",
+      "product_image": "https://i.ibb.co.com/rt4M5Cq/Galaxy-Watch5-Pro-2-600x600.png",
+      "category": "Smartwatch",
+      "price": 449.99,
+      "description": "Advanced fitness tracking with premium design",
+      "specifications": [
+        "45mm titanium case",
+        "Super AMOLED display",
+        "GPS + LTE",
+        "Body composition",
+        "80-hour battery life"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "color_options": ["Black Titanium", "Gray Titanium"],
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "M4",
+      "product_title": "OnePlus 11",
+      "product_image": "https://i.ibb.co.com/1MZGR5b/One-Plus-11-Price-in-Bangladesh.png",
+      "category": "Mobile",
+      "price": 699.99,
+      "description": "Fast and smooth performance with Hasselblad cameras",
+      "specifications": [
+        "6.7-inch AMOLED",
+        "Snapdragon 8 Gen 2",
+        "50MP main camera",
+        "256GB storage",
+        "100W charging"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "color_options": ["Titan Black", "Eternal Green"],
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "M1",
+      "product_title": "iPhone 14 Pro Max",
+      "product_image": "https://i.ibb.co.com/VDD0ZGc/Apple-i-Phone-14-Pro-i-Phone-14-Pro-Max.jpg",
+      "category": "Mobile",
+      "price": 1299.99,
+      "description": "Latest flagship iPhone with dynamic island and advanced camera system",
+      "specifications": [
+        "6.7-inch Super Retina XDR display",
+        "A16 Bionic chip",
+        "48MP main camera",
+        "Dynamic Island",
+        "512GB storage"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "color_options": ["Space Black", "Silver", "Gold", "Deep Purple"],
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "L1",
+      "product_title": "MacBook Pro 16",
+      "product_image": "https://i.ibb.co.com/Xbh0YmH/111902-mbp14-silver2.png",
+      "category": "Laptop",
+      "price": 2499.99,
+      "description": "Professional laptop with M2 Pro chip",
+      "specifications": [
+        "16-inch Liquid Retina XDR",
+        "M2 Pro chip",
+        "32GB unified memory",
+        "1TB SSD",
+        "Up to 22 hours battery"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "color_options": ["Space Gray", "Silver"],
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "M5",
+      "product_title": "Xiaomi 13 Pro",
+      "product_image": "https://i.ibb.co.com/FJQhNQ7/Xiaomi-13-Pro-featured-image-pac.png",
+      "category": "Mobile",
+      "price": 999.99,
+      "description": "Premium flagship with Leica optics",
+      "specifications": [
+        "6.73-inch AMOLED",
+        "Snapdragon 8 Gen 2",
+        "50MP Leica camera",
+        "256GB storage",
+        "120W charging"
+      ],
+      "availability": true,
+      "rating": 4.4,
+      "color_options": ["Ceramic Black", "Ceramic White"],
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "M2",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co.com/ByyrGKR/Galaxy-S23-Ultra-5-G-Lavender.png",
+      "category": "Mobile",
+      "price": 1199.99,
+      "description": "Premium Android flagship with S Pen functionality",
+      "specifications": [
+        "6.8-inch Dynamic AMOLED 2X",
+        "Snapdragon 8 Gen 2",
+        "200MP main camera",
+        "S Pen included",
+        "256GB storage"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "color_options": ["Phantom Black", "Green", "Cream"],
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "M6",
+      "product_title": "ASUS ROG Phone 7",
+      "product_image": "https://i.ibb.co.com/PCkgbL4/Aa35798b56a4a48f589895cbaaf29286.png",
+      "category": "Mobile",
+      "price": 1099.99,
+      "description": "Ultimate gaming phone with advanced cooling",
+      "specifications": [
+        "6.78-inch AMOLED",
+        "Snapdragon 8 Gen 2",
+        "50MP main camera",
+        "512GB storage",
+        "Gaming triggers"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "color_options": ["Phantom Black", "Storm White"],
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "W1",
+      "product_title": "Apple Watch Ultra",
+      "product_image": "https://i.ibb.co.com/rtx8MDF/Alpine-Loop-Blue-3303.png",
+      "category": "Smartwatch",
+      "price": 799.99,
+      "description": "Premium rugged smartwatch for outdoor enthusiasts",
+      "specifications": [
+        "49mm titanium case",
+        "Always-On Retina display",
+        "GPS + Cellular",
+        "Action button",
+        "36-hour battery life"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "color_options": ["Titanium"],
+      "warranty": "2 years"
+    },
+    {
+      "product_id": "M3",
+      "product_title": "Google Pixel 7 Pro",
+      "product_image": "https://i.ibb.co.com/grB8h1h/7-pro-white-Recovered.png",
+      "category": "Mobile",
+      "price": 899.99,
+      "description": "Google's flagship with advanced AI capabilities",
+      "specifications": [
+        "6.7-inch LTPO OLED",
+        "Google Tensor G2",
+        "50MP main camera",
+        "128GB storage",
+        "Android 13"
+      ],
+      "availability": false,
+      "rating": 4.6,
+      "color_options": ["Obsidian", "Snow", "Hazel"],
+      "warranty": "2 years"
+    },
+    {
+      "product_id": "L2",
+      "product_title": "Dell XPS 15",
+      "product_image": "https://i.ibb.co.com/nn8QfTK/Dell-XPS-15-3-3.png",
+      "category": "Laptop",
+      "price": 1999.99,
+      "description": "Premium Windows laptop with OLED display",
+      "specifications": [
+        "15.6-inch 4K OLED",
+        "Intel Core i9-13900H",
+        "32GB RAM",
+        "1TB SSD",
+        "NVIDIA RTX 4070"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "color_options": ["Platinum Silver"],
+      "warranty": "1 year"
+    }
+  ]
